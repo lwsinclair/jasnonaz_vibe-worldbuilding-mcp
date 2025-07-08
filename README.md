@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-jasnonaz-vibe-worldbuilding-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-jasnonaz-vibe-worldbuilding-mcp)
+
 # Vibe Worldbuilding MCP
 
 A Model Context Protocol (MCP) for creating detailed fictional worlds with Claude, complete with automatic image generation.
